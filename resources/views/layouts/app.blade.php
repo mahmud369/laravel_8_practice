@@ -79,7 +79,7 @@
         <div class="sidebar">
             @section('sidebar')
             <a href="home">Home</a>
-            <a href="users">Users</a>
+            <a href="users-list">Users</a>
             @show
         </div>
 
